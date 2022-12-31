@@ -1,6 +1,7 @@
-# Título do projeto
+# GoalsApp
 
-Um parágrafo da descrição do projeto vai aqui
+Projeto criado em curso 
+React Native - The Practical Guide
 
 ## 🚀 Começando
 
